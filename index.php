@@ -8,10 +8,10 @@
 <form method="POST" action="form_connect.php">
 Name: <input type="text" name="name" >
  
-<br><br>
+			<br><br>
 E-mail: <input type="text" name="email" >
 
-  <br><br>
+ <br><br>
 
  Password :  <input type="password" name="password" >
     <input type="submit" name="submit" value="submit">
