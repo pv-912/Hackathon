@@ -6,7 +6,7 @@
 <body>
 
 <form method="POST" action="form_connect.php">
-N ame: <input type="text" name="name" >
+Name: <input type="text" name="name" >
  
 <br><br>
 E-mail: <input type="text" name="email" >
