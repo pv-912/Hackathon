@@ -6,8 +6,8 @@
 <body>
 
 <form method="POST" action="form_connect.php">
-Name: <input type="text" name="name" >
-
+N ame: <input type="text" name="name" >
+ 
 <br><br>
 E-mail: <input type="text" name="email" >
 
