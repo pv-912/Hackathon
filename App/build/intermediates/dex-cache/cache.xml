@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nishant/.android/build-cache/3b89d16baa97eead9b696c386aa226240855b0db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/nishant/Downloads/AndriodStudioProjects/Auto_Updater/app/build/intermediates/pre-dexed/debug/classes_02d72d9832ce71643545b47376838740ea77e826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nishant/.android/build-cache/484df9e4e77ebb8bd37249123575dbb43bd50bb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/nishant/Downloads/AndriodStudioProjects/Auto_Updater/app/build/intermediates/pre-dexed/debug/classes_4aec4551efda26d2249267c38ab502410c169204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nishant/.android/build-cache/ec7c18c76b0fa8e3dd7a1f9f24e377e591a04fc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/nishant/Downloads/AndriodStudioProjects/Auto_Updater/app/build/intermediates/pre-dexed/debug/classes_c4b608774ac86b6aa88198515ae2cf2e203e1351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nishant/.android/build-cache/cc12098d33955055e1a3dc363430ce39d1f6b2da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/nishant/Downloads/AndriodStudioProjects/Auto_Updater/app/build/intermediates/pre-dexed/debug/classes_8ff6830588764715ab5961bca9d09e8c50d9fe1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nishant/.android/build-cache/4fb275b8af484a3272cdcd904dd731e73461d5e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/nishant/Downloads/AndriodStudioProjects/Auto_Updater/app/build/intermediates/pre-dexed/debug/classes_2735067d6025e33c3a5e4667e3e8d64b9b0e2bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nishant/.android/build-cache/7abcaa0361c0029669689e56e8fc2d464326437f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/nishant/Downloads/AndriodStudioProjects/Auto_Updater/app/build/intermediates/pre-dexed/debug/classes_079d0c3c4a5640acc801ee8f194a0ddd4484504b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nishant/.android/build-cache/851a3e219b9f879f22a07400ea16c9b71bfe229b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/nishant/Downloads/AndriodStudioProjects/Auto_Updater/app/build/intermediates/pre-dexed/debug/classes_036616a50f04e3395ba421b722c6f7d5ab4e915e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395840415819",
+    "firebase_url": "https://autoupdater-68521.firebaseio.com",
+    "project_id": "autoupdater-68521",
+    "storage_bucket": "autoupdater-68521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395840415819:android:47f2416efa912970",
+        "android_client_info": {
+          "package_name": "com.example.nishant.auto_updater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395840415819-r2cisup5dgc9m42ik1ug33kvkqit2kda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishant.auto_updater",
+            "certificate_hash": "4d265d94be303da10da9d8cdf4f9ceaacb3f4401"
+          }
+        },
+        {
+          "client_id": "395840415819-fa7uvrpkqkaa9h84e8a8966lmn2bogcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWjRIl7fQO7mJH5-YJiCHsipzgmMaVII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395840415819-fa7uvrpkqkaa9h84e8a8966lmn2bogcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
