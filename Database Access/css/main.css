@@ -1,0 +1,79 @@
+body{
+	width: 100vw;
+	margin:0;
+	padding:0;
+	overflow-x: hidden;
+	background: red; 
+	background: -webkit-linear-gradient(-90deg, #99d6ff, #1aa3ff); 
+}
+
+.active,
+.nonactive{
+	background-color: #fafafa;
+	text-align: center;
+}
+
+.active:before {
+	content: "•"; 
+	color: #00cc00; 
+	font-size: 35px;
+}
+.nonactive:before {
+	content: "•"; 
+	color: black; 
+	font-size: 35px;
+}
+.avail{
+	margin-top: 20px;
+	font-size: 40px;
+	color: red;
+}
+table{
+	margin-top: -15px;
+}
+thead{
+	background-color: #003484;
+}
+thead td{
+	margin:0;
+	color: #fff;
+	width: 25vw;
+	padding:10px 0;
+	font-size: 2vw;
+	text-align: center;
+}
+.profId,
+.profName{
+	background-color: #fafafa;
+	padding:10px 10vw;
+	font-size: 1.5vw;
+	text-align: center;
+	color: #555
+}
+
+
+/* Mobile view*/
+@media only screen and (max-width: 520px) {
+	.avail{
+	font-size: 30px;
+	color: #000;
+	}
+		thead{
+		background-color: #003484;
+	}
+	thead td{
+		min-width: 32.5vw;
+		padding:10px 0;
+		font-size: 4vw;
+		text-align: center;
+		color: #fff;
+	}
+	.profId,
+	.profName{
+		background-color: #fafafa;
+		padding:10px 0;
+		font-size: 2.8vw;
+		text-align: center;
+		min-width: 32.5vw;
+	}
+}

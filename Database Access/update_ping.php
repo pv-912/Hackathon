@@ -1,6 +1,3 @@
-
-
-
 <?php
 include('config.php');
 
@@ -11,9 +8,5 @@ if ($conn->query($sql) === TRUE) {
 } else {
     return false;
 }
-
-
-
-
-   $conn->close();
+$conn->close();
 ?>
