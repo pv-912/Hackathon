@@ -19,11 +19,14 @@
       
 		
       if($count == 1) {
-          echo  "'".$myusername."'";
+          echo "hello";
+           header("Location: index.php");
          session_register("'".$myusername."'");
+
          $_SESSION['login_user'] = $myusername;
+
          
-         header("location: welcome.php");
+         
       }else {
          $error = "Invalid Credentials";
       }
@@ -68,7 +71,7 @@
                
                <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method = "post">
                   <label>UserName  :</label><input type = "text" name = "name" class = "box"/><br /><br />
-                  <label>Password  :</label><input type = "text" name = "department" class = "box" /><br/><br />
+                  <label>Department :</label><input type = "text" name = "department" class = "box" /><br/><br />
                   <input type = "submit" value = " Submit "/><br />
                </form>
                <a href="signup.php" >Don't Have Account, Register Here</a>

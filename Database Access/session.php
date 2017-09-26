@@ -9,9 +9,9 @@
    $row = mysqli_fetch_array($ses_sql,MYSQLI_ASSOC);
    
    $login_session = $row['name'];
-   echo 'qwert';
+   echo $row['name'];
    if(!isset($_SESSION['login_user'])){
-      header("location:login.php");
+      header("location:index.php");
       echo 'dff';
    }
 ?>
