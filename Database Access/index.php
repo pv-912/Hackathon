@@ -21,6 +21,7 @@ E-mail: <input type="text" name="email" >
 <a href="get_table.php">All Values<br></a>
 
 <a href="table.php">Availibility<br></a>
+<a href="signup.php">Signup<br></a>
 
 
 Welcome <?php echo $_POST["name"]; ?><br>
