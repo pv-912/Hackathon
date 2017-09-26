@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Connect_Host</string>
+    <string name="main_activity_name">All Tasks</string>
+    <string name="add_task_activity_name">Add_Member</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This edit task has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">Describe your task&#8230;</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add</string>
+    <string name="enter_the_username">Enter_the_Username</string>
+    <string name="add_department">Add_Department</string>
+    <string name="search">SEARCH</string>
+
+</resources>
