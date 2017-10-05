@@ -1,0 +1,1 @@
+schtasks /delete /TN startup_task /F
