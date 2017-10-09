@@ -1,0 +1,4 @@
+task_startup is surrogate to installation
+task_end is surrogate to unistall.
+
+They need to run only once.
