@@ -1,0 +1,1 @@
+"C:\Main\curl" --data "id=5&status=0" https://c451f437.ngrok.io/update_ping.php
