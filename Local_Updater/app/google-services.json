@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "146317606755",
+    "firebase_url": "https://fir-2936c.firebaseio.com",
+    "project_id": "fir-2936c",
+    "storage_bucket": "fir-2936c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146317606755:android:fabb52a4f203f4bd",
+        "android_client_info": {
+          "package_name": "com.example.nishant.fire_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146317606755-nt6o7bg82lgdbgut9h87fcnrf36ou3fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishant.fire_base",
+            "certificate_hash": "843d4d64559a4a18c43c61e105127c0def961d58"
+          }
+        },
+        {
+          "client_id": "146317606755-0jpj58ajeicvaecng5j2t9mnhfv0j2sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvFPZQtb7yWB9O5Zr4cd8WT6oWgqnVLQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146317606755-0jpj58ajeicvaecng5j2t9mnhfv0j2sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146317606755:android:8e17362ee3116220",
+        "android_client_info": {
+          "package_name": "com.example.nishant.local_updater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146317606755-0jpj58ajeicvaecng5j2t9mnhfv0j2sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvFPZQtb7yWB9O5Zr4cd8WT6oWgqnVLQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
