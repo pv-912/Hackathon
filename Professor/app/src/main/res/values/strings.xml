@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Professor</string>
+    <string name="sign_out">SIGN_OUT</string>
+    <string name="department_name">department_name</string>
+    <string name="professor_name">professor_name</string>
+    <string name="status">STATUS</string>
+</resources>
