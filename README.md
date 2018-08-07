@@ -1,5 +1,5 @@
 # Hackathon
- SDS hackathon sponsored by Raxor Pay
+ SDS hackathon sponsored by RazorPay
  
  ## Techniques
  HTML, CSS, SQL, PHP(for backend), ngrok  for sample hosting 
